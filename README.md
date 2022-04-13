@@ -8,3 +8,6 @@ COVID-19 Sarima Model for Canada
 
 Data Exploration Folder
 -This is where a Linear Regression model and a Stationary Testing model are located.
+
+Dataset Link:
+https://open.canada.ca/data/en/dataset/b8d1d622-1ceb-4c1c-96e9-a0b38939080b
